@@ -18,5 +18,5 @@ If there is no `return`, a function returns `undefined`.
 ## DIY Section
 
 - "Create a function named as `addFive`"
-- `addFive` should return the value 8
 - Inside the `addFive` function, you should add 5 to the `sum` variable
+- `addFive` should return the value 8
