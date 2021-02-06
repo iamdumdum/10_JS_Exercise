@@ -6,8 +6,11 @@ function addThree() {
 }
 
 // Only change code below this line
-
-
+function addFive() {
+  var num = sum + 5
+  return num
+ 
+}
 // Only change code above this line
 
 addThree() //this adds three to a number but returned value is undefined
